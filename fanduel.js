@@ -122,13 +122,14 @@ for(var rb1 = 0; rb1 < RBs.length-1; rb1++){
 								   parseInt(WRs[wr1].salary) + parseInt(WRs[wr2].salary) + parseInt(WRs[wr3].salary)+
 								   parseInt(QBs[qb1].salary);
 
+								   
 								   //console.log(curPrice);
 
-						curProj = parseInt(RBs[rb1].proj) + parseInt(RBs[rb2].proj) +
-								   parseInt(WRs[wr1].proj) + parseInt(WRs[wr2].proj) + parseInt(WRs[wr3].proj)+
-								   parseInt(QBs[qb1].proj);	 
+						curProj = parseFloat(RBs[rb1].proj) + parseFloat(RBs[rb2].proj) +
+								   parseFloat(WRs[wr1].proj) + parseFloat(WRs[wr2].proj) + parseFloat(WRs[wr3].proj)+
+								   parseFloat(QBs[qb1].proj);	 
 
-								   //console.log(curProj)
+								   //console.log(curProj);
 
 						console.log(rb1 + "|" + rb2 + "|" + wr1 + "|" + wr2 + "|" + wr3 + "|" + qb1);
 
@@ -168,12 +169,12 @@ for(var rb1 = 0; rb1 < RBs.length-1; rb1++){
 
 
 
-}, 5000);
+}, 1000);
 
 setTimeout(function(){
 	var finalrank = calcBestProj(teams);
-	var count = 30;
-	for( var i = finalrank.length-30; i < finalrank.length; i++){
+	var count = 15;
+	for( var i = finalrank.length-15; i < finalrank.length; i++){
 		var rb1 = RBs[finalrank[i].rb1];
 		var rb2 = RBs[finalrank[i].rb2];
 		var wr1 = WRs[finalrank[i].wr1];

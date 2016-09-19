@@ -1,0 +1,149 @@
+team 15
+rb1: DeAngelo Williams|7600|15.2
+rb2: Lamar Miller|7700|14.1
+wr1: Jarvis Landry|6500|8.9
+wr2: Michael Thomas|5000|6.8
+wr3: Travis Benjamin|6100|8
+qb1: Cam Newton|9000|23.1
+cost: 41900
+proj: 76.1
+
+team 14
+rb1: Rashad Jennings|6300|12.2
+rb2: Jeremy Langford|6500|11.9
+wr1: Antonio Brown|9200|14.3
+wr2: Michael Thomas|5000|6.8
+wr3: Tajae Sharpe|6000|7.8
+qb1: Cam Newton|9000|23.1
+cost: 42000
+proj: 76.1
+
+team 13
+rb1: DeAngelo Williams|7600|15.2
+rb2: Mark Ingram|7000|12.8
+wr1: Doug Baldwin|7000|9.7
+wr2: Michael Crabtree|6200|8.5
+wr3: Michael Thomas|5000|6.8
+qb1: Cam Newton|9000|23.1
+cost: 41800
+proj: 76.1
+
+team 12
+rb1: DeAngelo Williams|7600|15.2
+rb2: C.J. Anderson|7800|14.5
+wr1: Michael Crabtree|6200|8.5
+wr2: Michael Thomas|5000|6.8
+wr3: Travis Benjamin|6100|8
+qb1: Cam Newton|9000|23.1
+cost: 41700
+proj: 76.1
+
+team 11
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Doug Baldwin|7000|9.7
+wr2: Michael Thomas|5000|6.8
+wr3: Michael Floyd|7000|9.2
+qb1: Cam Newton|9000|23.1
+cost: 41900
+proj: 76.19999999999999
+
+team 10
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Jarvis Landry|6500|8.9
+wr2: Michael Thomas|5000|6.8
+wr3: Larry Fitzgerald|7400|10
+qb1: Cam Newton|9000|23.1
+cost: 41800
+proj: 76.19999999999999
+
+team 9
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Amari Cooper|7900|11.2
+wr2: Michael Thomas|5000|6.8
+wr3: Tajae Sharpe|6000|7.8
+qb1: Cam Newton|9000|23.1
+cost: 41800
+proj: 76.29999999999998
+
+team 8
+rb1: DeAngelo Williams|7600|15.2
+rb2: C.J. Anderson|7800|14.5
+wr1: Jarvis Landry|6500|8.9
+wr2: Michael Thomas|5000|6.8
+wr3: Tajae Sharpe|6000|7.8
+qb1: Cam Newton|9000|23.1
+cost: 41900
+proj: 76.3
+
+team 7
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Kelvin Benjamin|7500|10.5
+wr2: Michael Crabtree|6200|8.5
+wr3: Michael Thomas|5000|6.8
+qb1: Cam Newton|9000|23.1
+cost: 41600
+proj: 76.3
+
+team 6
+rb1: DeAngelo Williams|7600|15.2
+rb2: C.J. Anderson|7800|14.5
+wr1: Jarvis Landry|6500|8.9
+wr2: Michael Thomas|5000|6.8
+wr3: Travis Benjamin|6100|8
+qb1: Cam Newton|9000|23.1
+cost: 42000
+proj: 76.5
+
+team 5
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Kelvin Benjamin|7500|10.5
+wr2: Michael Thomas|5000|6.8
+wr3: DeSean Jackson|6600|8.7
+qb1: Cam Newton|9000|23.1
+cost: 42000
+proj: 76.5
+
+team 4
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Amari Cooper|7900|11.2
+wr2: Michael Thomas|5000|6.8
+wr3: Travis Benjamin|6100|8
+qb1: Cam Newton|9000|23.1
+cost: 41900
+proj: 76.5
+
+team 3
+rb1: DeAngelo Williams|7600|15.2
+rb2: Lamar Miller|7700|14.1
+wr1: Michael Crabtree|6200|8.5
+wr2: Jarvis Landry|6500|8.9
+wr3: Michael Thomas|5000|6.8
+qb1: Cam Newton|9000|23.1
+cost: 42000
+proj: 76.6
+
+team 2
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Kelvin Benjamin|7500|10.5
+wr2: Jarvis Landry|6500|8.9
+wr3: Michael Thomas|5000|6.8
+qb1: Cam Newton|9000|23.1
+cost: 41900
+proj: 76.69999999999999
+
+team 1
+rb1: DeAngelo Williams|7600|15.2
+rb2: Rashad Jennings|6300|12.2
+wr1: Amari Cooper|7900|11.2
+wr2: Michael Crabtree|6200|8.5
+wr3: Michael Thomas|5000|6.8
+qb1: Cam Newton|9000|23.1
+cost: 42000
+proj: 77
